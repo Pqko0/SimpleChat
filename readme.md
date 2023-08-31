@@ -10,7 +10,7 @@ $ npm install
 $ node .
 ```
 
-Then it should be online on port 81 ( http://localhost:81[http://localhost:81] )
+Then it should be online on port 81 ( http://localhost:81/ )
 
 ## Running the frontend (developer)
 
@@ -19,7 +19,7 @@ $ cd client
 $ npm install
 $ npm start
 ```
-Then it should be online on port 3000 ( http://localhost:3000[http://localhost:3000] )
+Then it should be online on port 3000 ( http://localhost:3000/ )
 
 ## Building the frontend
 
@@ -37,4 +37,4 @@ $ npm i -g serve
 $ serve -s build
 ```
 
-Then it should be online on port 3000 ( http://localhost:3000[http://localhost:3000] )
+Then it should be online on port 3000 ( http://localhost:3000/ )
